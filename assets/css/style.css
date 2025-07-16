@@ -1780,7 +1780,7 @@ input.main-search-input::placeholder {
   cursor: pointer;
 }
 
-.pace {
+/* .pace {
   pointer-events: none;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -1823,9 +1823,9 @@ input.main-search-input::placeholder {
 }
 .pace.pace-inactive .pace-progress {
   max-width: 100vw;
-}
+} */
 
-#preloader {
+/* #preloader {
   width: 100%;
   height: 100vh;
   overflow: hidden;
@@ -1957,7 +1957,7 @@ input.main-search-input::placeholder {
   100% {
     opacity: 0;
   }
-}
+} */
 .mouse-cursor {
   position: fixed;
   left: 0;
